@@ -34,3 +34,4 @@ page 50102 APISinhvien
         }
     }
 }
+//https://api.businesscentral.dynamics.com/v2.0/<environmentName>/api/<API publisher>/<API group>/<API version>/entityDefinitions
